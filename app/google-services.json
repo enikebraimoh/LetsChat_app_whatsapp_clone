@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106242010045",
+    "firebase_url": "https://fashchat-app.firebaseio.com",
+    "project_id": "fashchat-app",
+    "storage_bucket": "fashchat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106242010045:android:202e246d65f44c8e4f00d4",
+        "android_client_info": {
+          "package_name": "com.enikebraimoh.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106242010045-vf0vr227dhcbf30f9lamilfkaccqajqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNO8XwPQnaY7aNCV7PJ1DrNh3qFN5WrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106242010045-vf0vr227dhcbf30f9lamilfkaccqajqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
